@@ -1,0 +1,5 @@
+review_id,customer_id,product_id,rating,review_text
+1,1001,9001,5,Excellent product!
+2,1002,9003,4,Useful for daily work
+3,1003,9002,2,Keys feel stiff
+4,1004,9004,5,Very handy and good quality

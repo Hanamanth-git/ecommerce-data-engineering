@@ -1,0 +1,5 @@
+
+{"order_id": 501, "customer_id": 1001, "order_ts": "2025-07-11T08:35:00Z", "amount": 299.99, "status": "PLACED"}
+{"order_id": 502, "customer_id": 1002, "order_ts": "2025-07-11T08:40:00Z", "amount": 199.49, "status": "PLACED"}
+{"order_id": 503, "customer_id": 1003, "order_ts": "2025-07-11T08:45:00Z", "amount": 449.00, "status": "CANCELLED"}
+{"order_id": 504, "customer_id": 1004, "order_ts": "2025-07-11T08:55:00Z", "amount": 120.00, "status": "PLACED"}
